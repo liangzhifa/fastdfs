@@ -5,4 +5,4 @@ fdfs:
   thumb-image:  #缩略图的宽高，可选
     width: 60
     height: 60
-  tracker-list: 47.100.45.101:22122  #地址，支持多个（集群）
+  tracker-list: 47.100.45.101:22122  #地址，支持多个（ 集群）
